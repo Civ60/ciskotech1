@@ -141,7 +141,7 @@ a {
 @media screen only (min-width: 360px) {
   .nav h1,
   .slider h1 {
-    font-size: 8vw;
+    font-size: 2vw;
   }
 
   .nav h2,
