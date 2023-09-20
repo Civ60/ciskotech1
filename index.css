@@ -26,7 +26,7 @@ body {
 .nav h1,
 .slider h1 {
   font-family: "Josefin Sans", sans-serif;
-  font-size: 5vw;
+  font-size: 4vw;
   margin: 0;
   padding-bottom: 0.5rem;
   letter-spacing: 0.5rem;
@@ -58,7 +58,7 @@ h3.span {
 span:hover {
   color: #ff0266;
   font-weight: 500;
-  font-size: 2.2vw;
+  font-size: 2.5vw;
 }
 
 a {
@@ -130,11 +130,11 @@ a {
 
   .nav h2,
   .slider h2 {
-    font-size: 3vw;
+    font-size: 4vw;
   }
 
   .nav-tab {
-    font-size: 3vw;
+    font-size: 4vw;
   }
 }
 
@@ -146,7 +146,7 @@ a {
 
   .nav h2,
   .slider h2 {
-    font-size: 2vw;
+    font-size: 3vw;
     letter-spacing: 0.2vw;
   }
 
@@ -241,7 +241,7 @@ a {
   -webkit-animation-delay: 2.1s;
 }
 .main .descr{
-    font-size: 30px;
+    font-size: 20px;
     font-weight: 400;
     color: #ffffff;
 }
